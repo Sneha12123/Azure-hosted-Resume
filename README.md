@@ -7,3 +7,4 @@ Resume hosted on Azure
 - main.js contains visitor counter code
 - (gotta change profile image Aspect ratio)
 
+
